@@ -28,7 +28,7 @@ Check out our GitHub Discussions, internal Wikis, and issue boards. We believe i
 
 ## 🤝 Join Us
 
-We're hiring and always looking for brilliant minds who want to improve healthcare with technology. Visit [transcure.ai](https://transcure.ai) to learn more.
+We're hiring and always looking for brilliant minds who want to improve healthcare with technology. Visit [transcure.ai](https://transcure.net/) to learn more.
 
 ---
 
