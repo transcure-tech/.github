@@ -13,14 +13,6 @@ We're a team of passionate engineers, designers, and domain experts dedicated to
 - **Custom Healthcare Apps** – Tailored software solutions for clinics, hospitals, and health tech startups.
 - **Integrations with EHRs & Payers** – Robust APIs and RPA for systems like eClinicalWorks, Athenahealth, and payers like UHC, Aetna, and Medicare.
 
-## 📁 Key Repositories
-
-| Repo | Description |
-|------|-------------|
-| `rcm-automation-dashboard` | Centralized dashboard for tracking billing bots and workflows |
-| `ehr-integration-api` | Standardized APIs and connectors for top EHR platforms |
-| `compliance-audit-kit` | Tools and scripts to streamline HIPAA and SOC 2 audits |
-| `devops-infra` | Terraform, CI/CD, Kubernetes configs for secure cloud-native deployments |
 
 ## 🧩 Tech Stack
 
