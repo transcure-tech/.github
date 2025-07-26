@@ -16,11 +16,11 @@ We're a team of passionate engineers, designers, and domain experts dedicated to
 
 ## 🧩 Tech Stack
 
-- **Languages**: PHP (Laravel), Python, TypeScript, Go
+- **Languages**: Python, PHP, Node.JS, TypeScript, Go
 - **Frontend**: React, Tailwind, MUI
 - **Infra**: AWS (EKS, RDS, Lambda), ArgoCD, Docker, GitHub Actions
 - **AI/ML**: OpenAI, Whisper, spaCy, LangChain
-- **Monitoring**: Coralogix, Grafana, CloudWatch
+- **Monitoring**: Grafana, CloudWatch
 
 ## 🧠 Knowledge Sharing
 
