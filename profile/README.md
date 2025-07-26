@@ -1,4 +1,4 @@
-# Welcome to Transcure Tech 👩‍⚕️💻
+# Welcome to Transcure Tech 💻
 
 At **Transcure**, we're reimagining the future of healthcare through intelligent, secure, and scalable technology solutions. Our mission is to empower healthcare providers with automation, AI, and digital transformation tools that improve outcomes and streamline operations — from Revenue Cycle Management (RCM) to patient engagement and beyond.
 
