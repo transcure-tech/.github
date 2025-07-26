@@ -32,7 +32,6 @@ We're hiring and always looking for brilliant minds who want to improve healthca
 
 ---
 
-📬 **Contact**: hello@transcure.ai  
 🔒 **Security Policy**: See [SECURITY.md](https://github.com/transcure-tech/.github/blob/main/SECURITY.md)  
 💬 **Community**: Slack invites available for partners & collaborators
 
